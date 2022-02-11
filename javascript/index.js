@@ -39,24 +39,34 @@ function clearSplits() {
 }
 
 function setStopBtn() {
-  // ... your code goes here
+  btnLeftElement.className = 'btn stop';
+  btnLeftElement.textContent = 'STOP';
 }
 
 function setSplitBtn() {
-  // ... your code goes here
+  btnRightElement.className = 'btn split';
+  btnRightElement.textContent = 'SPLIT';
 }
 
 function setStartBtn() {
-  // ... your code goes here
+  btnLeftElement.className = 'btn start';
+  btnLeftElement.textContent = 'START';
 }
 
 function setResetBtn() {
-  // ... your code goes here
+  btnRightElement.className = 'btn reset';
+  btnRightElement.textContent = 'RESET';
 }
 
 // Start/Stop Button
 btnLeftElement.addEventListener('click', () => {
-  // ... your code goes here
+  if (btnLeftElement.classList.contains('start')) {
+    setStopBtn();
+    setSplitBtn();
+  } else {
+    setStartBtn();
+    setResetBtn();
+  }
 });
 
 // Reset/Split Button
