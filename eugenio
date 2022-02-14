@@ -1,0 +1,343 @@
+[33mcommit 44979d547f1a1e8ac54418f051897a0935a9d23f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Juan Eugenio <leuviah77@gmail.com>
+Date:   Fri Feb 11 21:48:10 2022 +0100
+
+    Dom iteration 2 whitout chronometer
+
+[33mcommit 23872bf9e4992598497a8c9571a9a0e243aab52b[m
+Author: Juan Eugenio <leuviah77@gmail.com>
+Date:   Tue Feb 8 22:16:43 2022 +0100
+
+    first part done
+
+[33mcommit 5ae5aa3cc0b8ba72e4ffbff3af9c7d086d585a5b[m
+Merge: 5425a6b cf375f7
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Wed Sep 29 09:07:47 2021 +0200
+
+    Merge pull request #1484 from abernier/patch-2
+    
+    fix: 00:00:00 positions
+
+[33mcommit cf375f7efab3ea02758de979232e27b0bf2f325d[m
+Author: Antoine BERNIER <antoine.bernier@gmail.com>
+Date:   Tue Sep 28 11:04:25 2021 +0200
+
+    fix: revert fixed width
+
+[33mcommit 9a201232f9dd54bf9edd5c3d1cf0afc2bca1fcaa[m
+Author: Antoine BERNIER <antoine.bernier@gmail.com>
+Date:   Tue Sep 28 11:00:38 2021 +0200
+
+    fix: 00:00:00 positions
+
+[33mcommit 5425a6bfdf7ba2cb9cb3d64d3bf42c9c7b53c8eb[m
+Merge: fc10187 8c51d4c
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Thu Jun 3 12:52:42 2021 +0200
+
+    Merge pull request #1342 from ironhack-labs/uros/update/jest-html-reporter-config
+    
+    Update jest reporter configuration
+
+[33mcommit 8c51d4c7a378d14d72855115a6064e0f7d79abcc[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Thu Jun 3 10:16:21 2021 +0200
+
+    Update jest reporter configuration
+    
+    - Update jest-html-reporter configuration to enable displaying failure messages and console.log output in the html reporter page.
+
+[33mcommit fc101878b566c09742095be19f15220fef2643fb[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Mon May 31 15:19:09 2021 +0200
+
+    remove large images, add show/hide
+
+[33mcommit 2682e2dd8084fdfd8ba8c880e9b3cd097b9569df[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Mon May 31 15:17:14 2021 +0200
+
+    remove large image, add show/hide
+
+[33mcommit f64dac1ed8568c5918259bf4ee2b0ecd88a99cd9[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Mon May 31 15:14:35 2021 +0200
+
+    Update readme.md
+
+[33mcommit 42ed293be41b44042a8141b95d612fccb859c080[m
+Author: Aleksandra Bošković <sandraboskovic@hotmail.com>
+Date:   Mon May 31 15:08:40 2021 +0200
+
+    Update readme.md
+
+[33mcommit 3561337afab2129a6db60b5aca167514c40490e7[m
+Merge: 298a339 562a24f
+Author: Uros Cirkovic <cirkovic.uros.srb@gmail.com>
+Date:   Fri May 28 02:34:14 2021 +0200
+
+    Merge pull request #1341 from ironhack-labs/uros/review
+    
+    Review
+
+[33mcommit 562a24f65258097304d9242b7d6ebd981adca2b8[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Fri May 28 02:32:43 2021 +0200
+
+    Add comments
+
+[33mcommit 0b0be9c0de8bc42ce1007904a82f665ea8a84040[m
+Author: ross-u <cirkovic.uros.srb@gmail.com>
+Date:   Fri May 28 02:32:26 2021 +0200
+
+    Update instructions - minor changes
+
+[33mcommit 298a33946e2e46a905f9c33ca6bec0b40cae332b[m
+Merge: a78a534 beac596
+Author: Ironhack Education Team <admin.education@ironhack.com>
+Date:   Thu May 27 17:07:06 2021 +0200
+
+    Merge pull request #1340 from ironhack-labs/automated-testing
+    
+    Add automated testing
+
+[33mcommit beac596a681cca4f2fbee8fcaa75b6ab7ec05d67[m
+Author: José Carneiro <josemcarneiro@gmail.com>
+Date:   Sun May 23 19:54:49 2021 +0100
+
+    Add workflow enabling instructions
+
+[33mcommit 4d16a4dacd68402bb9ccb0404b25631b6c03290e[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Fri May 21 16:24:10 2021 +0100
+
+    Add missing workflow script
+
+[33mcommit 3013bd7c1c829432f4e41dccb37868c018d8b174[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Fri May 21 00:50:21 2021 +0100
+
+    Clarify a few instructions
+
+[33mcommit 216573515099fdc0796cfda234b66fbe22688cc2[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Fri May 21 00:38:41 2021 +0100
+
+    Rename readme file to avoid unecessary git diff
+
+[33mcommit 50e3d865a5b478562410abee9d2b00c8e03021e0[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Fri May 21 00:36:38 2021 +0100
+
+    Clarified instructions, tests
+
+[33mcommit 8b7922aecee9cbde716fe14bc9ef0f7a5c65c235[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Thu May 20 18:52:23 2021 +0100
+
+    Clarify instructions, refactor tests
+
+[33mcommit 5b38414ac21614e6bb0332dabe77e8e0e4fa0b50[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Thu May 20 11:47:26 2021 +0100
+
+    Use jest timers instead of Jasmine clock
+
+[33mcommit a0d76956f1e6f760b1c3abe6dcaec78f0d7a2dfe[m
+Author: José Carneiro <jose.carneiro@mercedes-benz.io>
+Date:   Thu May 20 11:41:13 2021 +0100
+
+    Add missing git ignore entries, package.json configs, revert quote conversion, rename README
+
+[33mcommit 9306561cd22fd5e52baf9798828138705943328d[m
+Merge: a78a534 a9529a1
+Author: José Carneiro <josemcarneiro@gmail.com>
+Date:   Thu May 20 11:36:44 2021 +0100
+
+    Merge pull request #1325 from itstheandre/master
+    
+    Add tests to labs
+
+[33mcommit a9529a1e60d0a107ec4d631ac26ba0da345d4080[m
+Author: José Carneiro <josemcarneiro@gmail.com>
+Date:   Thu May 20 11:35:40 2021 +0100
+
+    Delete test-report.html
+
+[33mcommit c8c444ae074d52c8f2fa7e7ac85e37e56a795f7d[m
+Author: André de Albuquerque <itstheandre@gmail.com>
+Date:   Tue Apr 20 18:13:49 2021 +0200
+
+    feat: add tests to lab
+
+[33mcommit ea9e7f689c21e9ad9cf7385d889f4d9a4a1b6b19[m
+Author: André de Albuquerque <itstheandre@gmail.com>
+Date:   Tue Apr 20 18:13:23 2021 +0200
+
+    feat: add tests to lab
+
+[33mcommit a78a534f32290792dabd91e1857cc969577d4926[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Tue Oct 20 12:18:29 2020 +0200
+
+    update test for checking minutes and seconds
+
+[33mcommit 3e56c07673cf386c02f165c1213aac0c4a424ced[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Tue Mar 3 00:21:52 2020 -0500
+
+    add demo, clean instructions
+
+[33mcommit b1dca1d3e8e870e3ed75cc12fb3baba9340ca3df[m
+Merge: 682cf26 5c435d7
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Mon Mar 2 15:28:15 2020 -0500
+
+    Merge pull request #831 from ironhack-labs/update
+    
+    fix getSeconds test
+
+[33mcommit 5c435d71243e6d630cfef3e0cfe483064d670892[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Mon Mar 2 15:27:39 2020 -0500
+
+    fix getSeconds test
+
+[33mcommit 682cf2669316cf2dd4d2ebbfb507f7bf9740f3c9[m
+Merge: 1719021 f3a7d39
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Mon Mar 2 13:52:20 2020 -0500
+
+    Merge pull request #829 from ironhack-labs/update
+    
+    remove vars
+
+[33mcommit f3a7d392aac55a6ad2d7fdcdeb4bcd4795026246[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Mon Mar 2 13:51:44 2020 -0500
+
+    remove vars
+
+[33mcommit 171902180b41fb607622a31a865935abba854145[m
+Merge: 6416a41 5e20753
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Fri Feb 28 13:03:24 2020 -0500
+
+    Merge pull request #825 from ironhack-labs/update
+    
+    fix images, add hints
+
+[33mcommit 5e20753407d7a0f13ce7c5b17a41295a766a86af[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Fri Feb 28 13:03:04 2020 -0500
+
+    fix images, add hints
+
+[33mcommit 6416a414b914527de9467a0434590acc116dd17c[m
+Merge: fb922e8 b7d53c5
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Fri Feb 28 13:01:48 2020 -0500
+
+    Merge pull request #824 from ironhack-labs/update
+    
+    fix images, add hints
+
+[33mcommit b7d53c5e4725dfe69dee0a2e3c7e6e59c25c5148[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Fri Feb 28 13:01:08 2020 -0500
+
+    fix images, add hints
+
+[33mcommit fb922e8ec5d97b697476e401164098cecd868df8[m
+Merge: a6051c5 e4292ba
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Fri Feb 28 12:19:39 2020 -0500
+
+    Merge pull request #823 from ironhack-labs/update
+    
+    Update
+
+[33mcommit e4292ba303ccee42d049e89fa2f6666a20d237aa[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Fri Feb 28 12:19:10 2020 -0500
+
+    minor fixes
+
+[33mcommit c3a3960023a9b7375d4f5fcb5065323d98a08b8e[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Sun Feb 23 00:06:52 2020 -0500
+
+    remove starter code, update readme
+
+[33mcommit a5327ae9f883d38747b0f7dc1cd416815a9da1ba[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Sat Jan 4 03:05:17 2020 -0500
+
+    update readme, add detailed instructions for iteration 1, update tests
+
+[33mcommit a6051c55fa9b69216e6f80364edb1cf134ae0647[m
+Author: sandrabosk <sandraboskovic@hotmail.com>
+Date:   Mon Dec 23 13:17:00 2019 -0500
+
+    add stale bot
+
+[33mcommit 7b5a01002273acbaa989228910500bcc7e96d96d[m
+Merge: 7b8c410 f1eaaff
+Author: Aleksandra Boskovic <sandraboskovic@hotmail.com>
+Date:   Mon Mar 25 12:22:31 2019 -0400
+
+    Merge pull request #492 from ironhack-dev-squad-127/master
+    
+    Update of spec
+
+[33mcommit f1eaaff271963c022bda0b0d6e616ca2776daa6f[m
+Author: Maxence Bouret <maxence.bouret@gmail.com>
+Date:   Mon Mar 25 14:58:53 2019 +0000
+
+    Update of spec
+
+[33mcommit 7b8c410aaf108e67e3b4835a473e1999682800ca[m
+Merge: 6cf2d08 63b25df
+Author: Maxence Bouret <maxence.bouret@gmail.com>
+Date:   Mon Mar 25 11:51:35 2019 +0000
+
+    Merge pull request #491 from ironhack-dev-squad-127/master
+    
+    Update for ES6
+
+[33mcommit 63b25df8a2b3c99af4539d1679302654bdeb4729[m
+Author: Maxence Bouret <maxence.bouret@gmail.com>
+Date:   Mon Mar 25 11:50:45 2019 +0000
+
+    Update for ES6
+
+[33mcommit 6cf2d085165cd050fae5e942201f0b645604aa71[m
+Author: Mateus Felix <mateus.cfoliveira@gmail.com>
+Date:   Tue Oct 23 13:51:25 2018 -0300
+
+    Update readme.md
+
+[33mcommit 77a48b11ac837cdfb440be197f6a9d3386f26bee[m
+Author: Mateus Felix <mateus.cfoliveira@gmail.com>
+Date:   Tue Oct 23 13:46:02 2018 -0300
+
+    Corrected LAB name
+
+[33mcommit c8bf7ee4ce981d0a1daec40a77f90d769f952ebf[m
+Author: ta-web-mad <ta-web-mad@ironhack.com>
+Date:   Mon Mar 26 13:10:27 2018 +0200
+
+    JS file order
+
+[33mcommit 3fca61b739a23f42a131c4bc1d9723b591621c24[m
+Author: Victor Arza <papu.arza@gmail.com>
+Date:   Wed Jan 3 16:47:32 2018 +0100
+
+    starter-code updated with tests
+
+[33mcommit 85665a3020fa814588d203f2c9cf293bde7f1e21[m
+Author: Victor Arza <papu.arza@gmail.com>
+Date:   Tue Oct 3 11:17:54 2017 +0200
+
+    starter_code added
